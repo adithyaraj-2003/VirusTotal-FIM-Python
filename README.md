@@ -5,7 +5,7 @@ Built a lightweight Python-based File Integrity Monitoring (FIM) tool designed t
 
 ---
 
-## 🛠️ Technology Stack & APIs
+# 🛠️ Technology Stack & APIs
 * **Language:** Python (`os`, `hashlib`, `requests`, `pathlib`)
 * **Threat Intelligence:** VirusTotal API v3
 * **Security Framework Alignment:** NIST CSF (PR.DS-1, DE.CM-1), ISO/IEC 27001:2022 (Annex A.8.9 - Configuration Management / Integrity)
